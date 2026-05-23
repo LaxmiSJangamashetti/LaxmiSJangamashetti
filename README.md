@@ -1,5 +1,5 @@
 # Hi 👋, I'm Laxmi S Jangamashetti
-<br><br> 🌱 I’m currently learning DSA, Web Development and AI<br><br>💻 I know Java, SQL and basics of AI<br><br>👨‍💻👨‍💻 All of my projects are available on [GitHub](https://github.com/LaxmiSJ)<br><br>💬 Ask me about Java, DSA, SQL and Web Development<br><br>📫 How to reach me: laxmijshetti888@gmail.com<br><br>I love learning new technologies and building projects
+<br><br> 🌱 I’m currently learning DSA, Web Development and AI<br><br>💻 I know Java, SQL and basics of AI<br><br>👨‍💻👨‍💻 All of my projects are available on [GitHub]([https://github.com/LaxmiSJ](https://github.com/LaxmiSJangamashetti?tab=repositories))<br><br>💬 Ask me about Java, DSA, SQL and Web Development<br><br>📫 How to reach me: laxmijshetti888@gmail.com<br><br>I love learning new technologies and building projects
 
 
 ## 🌐 Socials:
